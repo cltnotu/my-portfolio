@@ -1,0 +1,11 @@
+/* Adjustments for laptop and desktop screens */
+
+header h1 {
+    font-size: 36px;
+}
+
+main {
+    width: 85%;
+    max-width: 1000px;
+    padding: 30px;
+}

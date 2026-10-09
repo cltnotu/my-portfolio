@@ -1,0 +1,10 @@
+/* Adjustments for tablet screens */
+
+header h1 {
+    font-size: 29px;
+}
+
+main {
+    width: 92%;
+    padding: 22px;
+}
