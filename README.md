@@ -50,3 +50,10 @@ Before submission, the website should be checked using:
 - A spell checker to check spelling and grammar.
 
 The navigation, contact form validation, photo, video, and responsive layout should also be tested manually.
+
+## References and Acknowledgements
+
+* **OpenAI ChatGPT** — Used for assistance with HTML structure, CSS styling, website development, troubleshooting, and understanding web programming concepts. https://chatgpt.com/
+* **Google Search** — Used to search for information and resources related to HTML5, CSS3, and website development. https://www.google.com/
+* **MDN Web Docs** — Reference for HTML elements, CSS properties, and web development concepts. https://developer.mozilla.org/
+* **W3C** — Used for website validation and link checking. https://www.w3.org/
